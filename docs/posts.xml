@@ -12,33 +12,6 @@
 <generator>quarto-1.5.53</generator>
 <lastBuildDate>Mon, 29 Jul 2024 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>This is a test</title>
-  <dc:creator>Erick Ratamero</dc:creator>
-  <link>https://erickmartins.github.io/posts/2024-07-29-this-is-a-test/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="this-is-a-test" class="level1">
-<h1>This is a test</h1>
-<section id="what-am-i-testing" class="level2">
-<h2 class="anchored" data-anchor-id="what-am-i-testing">what am I testing?</h2>
-<p>I am trying to use <a href="https://quarto.org">quarto</a> to generate a new personal website, including a personal blog. The idea is using this to replace my current github pages <a href="https://erickmartins.github.io">personal page</a> - quarto is a tool that I understand way better than the complex template I am currently using, and being able to write it all in markdown would be a blessing.</p>
-<p>Even more, I am looking forward to having a space to write a personal blog, with minimal fuss - no CMS, no complex dependencies. Just write markdown, render, push. Heck, I might even just write markdown and push, and use a github action to do the rendering.</p>
-<p>For now, this lives in a separate repo, while I iron out things and try to make it look nice(r).</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>Quarto</category>
-  <guid>https://erickmartins.github.io/posts/2024-07-29-this-is-a-test/</guid>
-  <pubDate>Mon, 29 Jul 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
   <title>OME Community Meeting 2024 round-up</title>
   <dc:creator>Erick Ratamero</dc:creator>
   <link>https://erickmartins.github.io/posts/2024-07-29-ome-meeting-roundup/</link>
