@@ -10,7 +10,7 @@ author:
     affiliation: The Jackson Laboratory
     affiliation-url: https://jax.org/ 
 date: 2024-07-29
-categories: [OME, OMERO, Conference] # self-defined categories
+categories: [OME, OMERO, Conference, work] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

@@ -1,0 +1,20 @@
+---
+title: "My August project: Boku no Natsuyasumi 2"
+image: bokunonatsu2.jpg
+lightbox: true
+description: "I've played the same game every day of August."
+author:
+  - name: Erick Ratamero
+    url: https://erickmartins.github.io/
+    orcid: 0000-0002-7545-3675
+    affiliation: The Jackson Laboratory
+    affiliation-url: https://jax.org/ 
+date: 2024-09-XX
+categories: [personal, video games] # self-defined categories
+draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Playing Boku no Natsuyasumi 2 every single day in August has been a delight.
+
+If you've never heard of Boku no Natsuyasumi (My Summer Vacation): it's a very popular series of games in Japan, where the basic premise is that you are a young child going to spend your (titular) summer vacation somewhere. You can think of it as Animal Crossing-adjacent: you explore a cute location, interact with the people living there, catch some fish and some bugs, and so on. There's a day-night cycle, certain things are only available at certain times, you know the drill.
+
