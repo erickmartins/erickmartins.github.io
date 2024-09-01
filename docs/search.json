@@ -28,6 +28,41 @@
     "text": "I think it’s fair to say this was the most intense (and probably the best) scientific meeting I have ever attended - the fact that this is very much the niche where I spend most of my time, and the relatively small size of the meeting, meant that every waking hour was spent having meaningful, important discussions. You’d go for breakfast and other folks would be there, already talking shop. Then you’d spend the whole day at the conference, then have dinner at the conference, then go grab drinks with the conference folks. Of course, there was plenty of time for less-professional talk as well, but but you still had to be “on”. I am VERY excited for next year already - especially if it ends up being in our backyard!"
   },
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My August project: Boku no Natsuyasumi 2\n\n\n\n\n\n\npersonal\n\n\nvideo games\n\n\n\nI’ve played the same game every day in August.\n\n\n\n\n\nAug 31, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\n\n\n\n\n\n\nOME Community Meeting 2024 round-up\n\n\n\n\n\n\nOME\n\n\nOMERO\n\n\nConference\n\n\nwork\n\n\n\nIn which I talk about the things that happened at the OME Community Meeting 2024 in Dundee, Scotland\n\n\n\n\n\nJul 29, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi! I’m Erick.",
+    "section": "",
+    "text": "I currently manage a small (but powerful) team of imaging experts at The Jackson Laboratory, a biomedical research nonprofit. We work on institution-wide imaging support: think more “how do we get tool X to work in our environment” or “how do we teach people the best way to apply deep learning methods to their images”, less “we will develop a custom tool for your specific research project”. Our team is 100% focused on supporting open-source tools."
+  },
+  {
+    "objectID": "index.html#what-does-that-mean-in-practice",
+    "href": "index.html#what-does-that-mean-in-practice",
+    "title": "Hi! I’m Erick.",
+    "section": "What does that mean in practice?",
+    "text": "What does that mean in practice?\nA lot of my time is dedicated to OMERO, the imaging data management platform we use. Our team is responsible for keeping it running, drive adoption and make it easier for folks to use it. A (different) lot of my time is dedicated to training people on how to use open-source image analysis/data management tools. There is also a lot of talking to faculty and researchers about what they need, and how we can support them."
+  },
+  {
+    "objectID": "index.html#here-are-some-projects-i-have-been-working-on",
+    "href": "index.html#here-are-some-projects-i-have-been-working-on",
+    "title": "Hi! I’m Erick.",
+    "section": "Here are some projects I have been working on:",
+    "text": "Here are some projects I have been working on:\n\nezomero is a convenience-layer library to interact with OMERO servers using Python. I am currently the main developer and maintainer.\nomero-cli-transfer is a utility tool for transfering data between OMERO servers, preserving hierarchies, annotations and regions of interest. I am also the main developer and maintainer."
+  },
+  {
+    "objectID": "index.html#what-else-do-i-do",
+    "href": "index.html#what-else-do-i-do",
+    "title": "Hi! I’m Erick.",
+    "section": "What else do I do?",
+    "text": "What else do I do?\n\nI spend a lot of time on forum.image.sc answering people’s questions and learning from other people’s answers.\nI’m part of the Curriculum Advisory Committee for the Image Processing curriculum at The Carpentries and of the BINA Image Informatics Working Group.\nI co-organize the Northeast (US?) Bioimage Analysis Meeting at The Jackson Laboratory."
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -63,38 +98,10 @@
     "text": "Honors and Awards\n\n2013: Marie Sklodowska-Curie PhD Fellowship - Full tuition and stipend for 36 months and research-related expenses\n2011: Erasmus Mundus M.Sc. Scholarship - Full tuition and stipend for 24 months\n2010: Laurea Academica from Universidade Federal Fluminense - Awarded to best graduating student for each major\n2009: Premio Walder Moreira - ”Student of the year” award in Telecommunications Engineering\n2007: Premio Walder Moreira - ”Student of the year” award in Telecommunications Engineering"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi! I’m Erick.",
+    "objectID": "posts/2024-08-31-boku-no-natsuyasumi2/index.html",
+    "href": "posts/2024-08-31-boku-no-natsuyasumi2/index.html",
+    "title": "My August project: Boku no Natsuyasumi 2",
     "section": "",
-    "text": "I currently manage a small (but powerful) team of imaging experts at The Jackson Laboratory, a biomedical research nonprofit. We work on institution-wide imaging support: think more “how do we get tool X to work in our environment” or “how do we teach people the best way to apply deep learning methods to their images”, less “we will develop a custom tool for your specific research project”. Our team is 100% focused on supporting open-source tools."
-  },
-  {
-    "objectID": "index.html#what-does-that-mean-in-practice",
-    "href": "index.html#what-does-that-mean-in-practice",
-    "title": "Hi! I’m Erick.",
-    "section": "What does that mean in practice?",
-    "text": "What does that mean in practice?\nA lot of my time is dedicated to OMERO, the imaging data management platform we use. Our team is responsible for keeping it running, drive adoption and make it easier for folks to use it. A (different) lot of my time is dedicated to training people on how to use open-source image analysis/data management tools. There is also a lot of talking to faculty and researchers about what they need, and how we can support them."
-  },
-  {
-    "objectID": "index.html#here-are-some-projects-i-have-been-working-on",
-    "href": "index.html#here-are-some-projects-i-have-been-working-on",
-    "title": "Hi! I’m Erick.",
-    "section": "Here are some projects I have been working on:",
-    "text": "Here are some projects I have been working on:\n\nezomero is a convenience-layer library to interact with OMERO servers using Python. I am currently the main developer and maintainer.\nomero-cli-transfer is a utility tool for transfering data between OMERO servers, preserving hierarchies, annotations and regions of interest. I am also the main developer and maintainer."
-  },
-  {
-    "objectID": "index.html#what-else-do-i-do",
-    "href": "index.html#what-else-do-i-do",
-    "title": "Hi! I’m Erick.",
-    "section": "What else do I do?",
-    "text": "What else do I do?\n\nI spend a lot of time on forum.image.sc answering people’s questions and learning from other people’s answers.\nI’m part of the Curriculum Advisory Committee for the Image Processing curriculum at The Carpentries and of the BINA Image Informatics Working Group.\nI co-organize the Northeast (US?) Bioimage Analysis Meeting at The Jackson Laboratory."
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "OME Community Meeting 2024 round-up\n\n\n\n\n\n\nOME\n\n\nOMERO\n\n\nConference\n\n\n\nIn which I talk about the things that happened at the OME Community Meeting 2024 in Dundee, Scotland\n\n\n\n\n\nJul 29, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\nNo matching items"
+    "text": "Playing Boku no Natsuyasumi 2 every single day in August has been a delight.\n\n\n\nMeeting people is hard.\n\n\nIf you’ve never heard of Boku no Natsuyasumi (My Summer Vacation): it’s a very popular series of games in Japan, where the basic premise is that you are a young child going to spend your (titular) summer vacation somewhere. You can think of it as Animal Crossing-adjacent: you explore a cute location, interact with the people living there, catch some fish and some bugs, and so on. There’s a day-night cycle, certain things are only available at certain times, you know the drill.\n\n\n\nThe Akane house in Fumi became my second residence for August.\n\n\nNone of the Bokunatsu games saw a western release, ever. (the newer stuff from the same studio, Millenium Kitchen, is available, though.) It’s one of those series that people who are deep enough into the rabbit hole that is gaming talked about without full context, and western folks who can speak Japanese raved about. And then, a group of extremely dedicated fans carefully put together an English translation of Bokunatsu 2. I cannot say enough glowing things about the work they’ve done here, both in terms of the quality of the prose itself and the absolute technical marvel that this translation is. For example, the original game has vertical text; they somehow converted that into a horizontal textbox at the bottom of the screen.\n\n\n\nYou do get to open this gate if you want to.\n\n\nI’ll get this out of the way: Boku no Natsuyasumi 2 is wonderful. It’s a small miracle. It’s warm, gentle, thoughtful, and just a tiny little bit sappy at times. It made me feel nostalgic for rural Japan in the 70s, a time and space I had very little knowledge about.\nSo the game starts and it’s August 1st, 1975. You’re a 9-year old kid named Boku (I know), taking the ferry to Fumi, a tiny little community somewhere in Japan. Your mom is about to give birth to a child, and your parents sent you over to stay with your aunt and uncle in Fumi so you don’t need to be around for that. That’s it. This is all you’re given. There are no objectives, no tutorials, nothing you need to do. You’re a kid on vacation, staying in a small village with your extended family and the locals. Have fun. You’ll have breakfast and dinner with your family at set times, and you have a limit for your bed time. Those are the only limitations.\nI love how open-ended everything is. There were many things that I’ve certainly missed, some things I only discovered when it was too late to do them properly, and so on. It’s a game that clearly doesn’t expect you to see everything in a single playthrough, and getting rid of that minmaxing bug in your brain is a good thing here. In just a few in-game days, I was able to let go of the instinct to optimize and just enjoy being a weird kid running around this village.\n\n\n\nI genuinely have no idea if this scene always happens or if some of the stuff I did made it happen.\n\n\nBoku is a wonderful protagonist - the way this kid is written and voiced made me smile all the time. Boku is a kind-hearted, curious, very funny kid, who asks good questions and likes teasing people. But he’s very much a kid. He doesn’t understand some things even when you, the player, does; there’s nothing you can do in-game to change that. You are not Boku.\n\n\n\nGramps had some stuff to take off his chest.\n\n\nNow for some added fun: as I said, this is a game that starts on August 1st, 1975. Following a friend’s suggestion, I decided to play one in-game day per real-life day. It didn’t end up mapping one to one for a number of reasons, but I did my best. I know there’s no such thing as the right way to play a game but honestly? This might be the right way to play this game. If you’re in the northern hemisphere. And you live in a place with seasons. The reminders that summer is ending in-game synchronizing with the first slightly chillier days where I am worked really, really well. Everyone’s mood shifts as fall is starting to peek around the corner: the people in the game and myself. It also helps that each day takes about half an hour if you’re playing on the default speed. It’s a totally reasonable time commitment for a daily task, right there with my crosswords.\nThe one thing I’m divided on is whether to do this again next year. One one hand, I would love to go back to Fumi, see the things I didn’t see, do the things I didn’t do. But at the same time, I love where Boku’s story ended at. This month of August felt like my version of what Boku’ August would have been, and to some degree going back to it would just undermine its power by making me optimize more, focus less on enjoying the scenery and the people in the village. Ultimately, I worry that re-experiencing August 1975 would make this month less unique.\n\n\n\nBoku loves to sit at a place and just vibe."
   }
 ]
