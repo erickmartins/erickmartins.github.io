@@ -2,7 +2,7 @@
 title: "My August project: Boku no Natsuyasumi 2"
 image: bokunonatsu2.jpg
 lightbox: true
-description: "I've played the same game every day of August."
+description: "I've played the same game every day in August."
 author:
   - name: Erick Ratamero
     url: https://erickmartins.github.io/
@@ -17,4 +17,18 @@ draft: true # setting this to `true` will prevent your post from appearing on yo
 # Playing Boku no Natsuyasumi 2 every single day in August has been a delight.
 
 If you've never heard of Boku no Natsuyasumi (My Summer Vacation): it's a very popular series of games in Japan, where the basic premise is that you are a young child going to spend your (titular) summer vacation somewhere. You can think of it as Animal Crossing-adjacent: you explore a cute location, interact with the people living there, catch some fish and some bugs, and so on. There's a day-night cycle, certain things are only available at certain times, you know the drill.
+
+None of the Bokunatsu games saw a western release, ever. (the newer stuff from the same studio, Millenium Kitchen, is available, though.) It's one of those series that people who are deep enough into the rabbit hole that is gaming talked about without full context, and western folks who can speak Japanese raved about. And then, a group of _extremely_ dedicated fans carefully put together an English translation of Bokunatsu 2. I cannot say enough glowing things about the work they've done here, both in terms of the quality of the prose itself and the absolute technical marvel that this translation is. For example, the original game has vertical text; they somehow converted that into a horizontal textbox at the bottom of the screen. 
+
+I'll get this out of the way: Boku no Natsuyasumi 2 is wonderful. It's a small miracle. It's warm, gentle, thoughtful, and just a tiny little bit sappy at times. It made me feel nostalgic for rural Japan in the 70s, a time and space I had very little knowledge about. 
+
+So the game starts and it's August 1st, 1975. You're a 9-year old kid named Boku (I know), taking the ferry to Fumi, a tiny little community somewhere in Japan. Your mom is about to give birth to a child, and your parents sent you over to stay with your aunt and uncle in Fumi so you don't need to be around for that. That's it. This is all you're given. There are no objectives, no tutorials, nothing you need to do. You're a kid on vacation, staying in a small village with your extended family and the locals. Have fun. You'll have breakfast and dinner with your family at set times, and you have a limit for your bed time. Those are the only limitations. 
+
+I love how open-ended everything is. There were many things that I've certainly missed, some things I only discovered when it was too late to do them properly, and so on. It's a game that clearly doesn't expect you to see everything in a single playthrough, and getting rid of that minmaxing bug in your brain is a good thing here. In just a few in-game days, I was able to let go of the instinct to optimize and just enjoy being a weird kid running around this village.
+
+Boku is a wonderful protagonist - the way this kid is written and voiced made me smile all the time. Boku is a kind-hearted, curious, very funny kid, who asks good questions and likes teasing people. But  he's very much a kid. He doesn't understand some things even when you, the player, does; there's nothing you can do in-game to change that. You are not Boku. 
+
+Now for some added fun: as I said, this is a game that starts on August 1st, 1975. Following a friend's suggestion, I decided to play one in-game day per real-life day. It didn't end up mapping one to one for a number of reasons, but I did my best. I know there's no such thing as the right way to play a game but honestly? This might be the right way to play this game. If you're in the northern hemisphere. And you live in a place with seasons. The reminders that summer is ending in-game synchronizing with the first slightly chillier days where I am worked really, really well. Everyone's mood shifts as fall is starting to peek around the corner: the people in the game and myself. It also helps that each day takes about half an hour if you're playing on the default speed. It's a totally reasonable time commitment for a daily task, right there with my crosswords. 
+
+The one thing I'm divided on is whether to do this again next year. One one hand, I would love to go back to Fumi, see the things I didn't see, do the things I didn't do. But at the same time, I love where Boku's story ended at. This month of August felt like _my_ version of what Boku' August would have been, and to some degree going back to it would just undermine its power by making me optimize more, focus less on enjoying the scenery and the people in the village. Ultimately, I worry that re-experiencing August 1975 would make this month less unique. 
 
