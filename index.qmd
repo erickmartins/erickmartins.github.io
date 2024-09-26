@@ -15,8 +15,6 @@ about:
           href: https://www.linkedin.com/in/erick-martins-ratamero-9934269/
         - text: "{{< iconify simple-icons:orcid >}}"
           href: https://orcid.org/0000-0002-7545-3675
-        - text: "{{< iconify tabler:brand-cohost >}}"
-          href: https://cohost.org/ratamero
         - text: "{{< iconify fa6-brands:lastfm >}}"
           href: https://www.last.fm/user/erickmartins
 
