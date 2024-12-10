@@ -1,6 +1,6 @@
 ---
 title: "These are 10 games I've played in 2024"
-image: games.png
+image: ufo50.jpg
 lightbox: true
 description: "It's the end of the year and I want to write about games again."
 author:
