@@ -7,8 +7,8 @@ author:
   - name: Erick Ratamero
     url: https://erickmartins.github.io/
     orcid: 0000-0002-7545-3675
-    affiliation: The Jackson Laboratory
-    affiliation-url: https://jax.org/ 
+    # affiliation: The Jackson Laboratory
+    # affiliation-url: https://jax.org/ 
 date: 2024-08-31
 categories: [personal, video games] # self-defined categories
 ---

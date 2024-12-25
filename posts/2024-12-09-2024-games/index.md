@@ -7,9 +7,9 @@ author:
   - name: Erick Ratamero
     url: https://erickmartins.github.io/
     orcid: 0000-0002-7545-3675
-    affiliation: The Jackson Laboratory
-    affiliation-url: https://jax.org/ 
-date: 2024-12-25
+    # affiliation: The Jackson Laboratory
+    # affiliation-url: https://jax.org/ 
+date: 2024-12-09
 categories: [personal, video games] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---

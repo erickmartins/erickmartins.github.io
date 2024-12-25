@@ -91,39 +91,11 @@
     "text": "Final thoughts\nThis is a good meeting! I wish more people joined us! I think it would benefit everyone! I had a great time and seeing people interacting and having fruitful conversations is extremely rewarding as an organizer. I had a great time meeting new people, and seeing familiar faces. I think we are slowly creating a bit more of a sense of community in the area, and that’s great."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
+    "objectID": "posts/2024-12-25-senna-netflix/index.html",
+    "href": "posts/2024-12-25-senna-netflix/index.html",
+    "title": "The Senna series on Netflix is the most weightless way you could tell the Senna story.",
     "section": "",
-    "text": "These are some games I’ve played in 2024\n\n\n\n\n\n\npersonal\n\n\nvideo games\n\n\n\nIt’s the end of the year and I want to write about games again.\n\n\n\n\n\nDec 25, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\n\n\n\n\n\n\nBINA Community Congress and Northeast Bioimage Analysis Meeting round-up\n\n\n\n\n\n\nBINA\n\n\nNortheast\n\n\nBioimaging\n\n\nConference\n\n\nwork\n\n\n\nI went to more conferences this year and I want to talk about them\n\n\n\n\n\nNov 21, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\n\n\n\n\n\n\nMy August project: Boku no Natsuyasumi 2\n\n\n\n\n\n\npersonal\n\n\nvideo games\n\n\n\nI’ve played the same game every day in August.\n\n\n\n\n\nAug 31, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\n\n\n\n\n\n\nOME Community Meeting 2024 round-up\n\n\n\n\n\n\nOME\n\n\nOMERO\n\n\nConference\n\n\nwork\n\n\n\nIn which I talk about the things that happened at the OME Community Meeting 2024 in Dundee, Scotland\n\n\n\n\n\nJul 29, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi! I’m Erick.",
-    "section": "",
-    "text": "I currently manage a small (but powerful) team of imaging experts at The Jackson Laboratory, a biomedical research nonprofit. We work on institution-wide imaging support: think more “how do we get tool X to work in our environment” or “how do we teach people the best way to apply deep learning methods to their images”, less “we will develop a custom tool for your specific research project”. Our team is 100% focused on supporting open-source tools."
-  },
-  {
-    "objectID": "index.html#what-does-that-mean-in-practice",
-    "href": "index.html#what-does-that-mean-in-practice",
-    "title": "Hi! I’m Erick.",
-    "section": "What does that mean in practice?",
-    "text": "What does that mean in practice?\nA lot of my time is dedicated to OMERO, the imaging data management platform we use. Our team is responsible for keeping it running, drive adoption and make it easier for folks to use it. A (different) lot of my time is dedicated to training people on how to use open-source image analysis/data management tools. There is also a lot of talking to faculty and researchers about what they need, and how we can support them."
-  },
-  {
-    "objectID": "index.html#here-are-some-projects-i-have-been-working-on",
-    "href": "index.html#here-are-some-projects-i-have-been-working-on",
-    "title": "Hi! I’m Erick.",
-    "section": "Here are some projects I have been working on:",
-    "text": "Here are some projects I have been working on:\n\nezomero is a convenience-layer library to interact with OMERO servers using Python. I am currently the main developer and maintainer.\nomero-cli-transfer is a utility tool for transfering data between OMERO servers, preserving hierarchies, annotations and regions of interest. I am also the main developer and maintainer."
-  },
-  {
-    "objectID": "index.html#what-else-do-i-do",
-    "href": "index.html#what-else-do-i-do",
-    "title": "Hi! I’m Erick.",
-    "section": "What else do I do?",
-    "text": "What else do I do?\n\nI spend a lot of time on forum.image.sc answering people’s questions and learning from other people’s answers.\nI’m part of the Curriculum Advisory Committee for the Image Processing curriculum at The Carpentries and of the BINA Image Informatics Working Group.\nI co-organize the Northeast (US?) Bioimage Analysis Meeting at The Jackson Laboratory."
+    "text": "Senna, the Netflix series, is a huge deal in Brazil. It’s Netflix dumping a truckload of money into a production that has Brazilian writers, Brazilian directors, Brazilian producers, (mostly) Brazilian actors. No TV series in Brazil has ever been this expensive.\nI really, really wanted to like this. And, in many ways, this is a success: it’s a well-made, well-crafted miniseries produced for an international market. I bet it will attract a lot of eyeballs and be a commercial success (whatever that means for Netflix). I bet it will win some awards. But, about two episodes into this 6-parter, I had to start writing down my thoughts on this. The TL;DR: they spent 170 million dollars on a shiny piece of TV that has nothing interesting to say about its subject.\nI’m not going to spend any time talking about Ayrton Senna and his story - if you are an F1 fan you know that by heart, if you are not, wikipedia is right here for you. The legend of Senna is as alive 30 years after his passing as it has ever been. His death, traumatic and untimely, froze the man and the driver in time: the Senna in people’s minds today is the same as it was in 1994, if not even more sanctified.\nWhich is to say I understand this series being a hagiography. What else could you do, really? The mythologized sports story is a well-traveled road, the production involved Senna’s family directly, a budget this big can’t be put into anything but. And Senna’s story fits the mold particularly well.\nStill: I will get on my soapbox real quick about Netflix’s Drive to Survive and its nefarious influence over sports documentaries. Drive to Survive didn’t do anything new: its particular brand of creating “safe drama” (i.e. superficial conflict without deep stakes), its insistence in framing its subjects as “good guys” regardless of reality, none of that is novel. Reality TV has been doing that for decades in very similar contexts. Storytelling is millenia old etc etc. I know. But it feels like the massive success of Drive to Survive has somewhat warped the landscape of what people feel is possible in the sports documentary-ish space, in particular around F1, and I can’t avoid seeing some of that here (at the risk of doing a boss baby vibes). Yes, Senna was a notoriously prickly person who had beef with a few characters. That is depicted in the series, but the stakes never feel real, never feel heavy; part of it seems to be a deliberate choice to never stew on the times Senna lost. Whole seasons of frustration and defeat are put into a “two years later” card so we can move on to the next success. We see Senna angry at times, but we never see him defeated.\n\n\n\nWe also never see Senna holding the Sonic Trophy, which is a shame.\n\n\nEven his biggest moments of elation feel somewhat weightless: say, for example, the 1991 Brazilian GP win. The stuff of legends. Genuinely one of the greatest F1 performances of all time. And some of that does come across in the series; but without the context, without knowing Senna had qualified first in Brazil the three years prior and had lost those races through bad luck, and crashes, and all sorts of weirdness, that incredible moment of finally winning his home grand prix under the weirdest possible circumstances feels emptied. It makes his “tinha que dar” comment afterwards, “it had to work this time”, feel meaningless. It robs what is probably one of the greatest sporting moments of all time of its power.\nAnd here’s the thing: it still hits for me, because I have that context. It hits for me, as lots of things in this series do. If you are a Brazilian F1 fan of a certain generation, this is incredible nostalgia bait. They did a fantastic job recreating everything to be period perfect, from the cars and the sponsors to, like, what the TV broadcast graphics looked like. The casting is genuinely incredible, with an great array of F1 driver lookalikes and the best Galvão Bueno Impersonator they could find. Kaya Scodelario’s Portuguese is surprisingly very very good, even though I am not sure what her character is and why she’s here. The races are very well shot, particularly when they don’t go into CGI fuckery. The craft is all there. It’s just they… decided to tell a story a lot of people already know, in a boring way.\nThen there’s all the things they very pointedly decided not to touch. Senna’s relationship with a 15-year old. Senna’s support for a shitty right-winger for the São Paulo Mayorship. It’s a hagiography, I get it. Senna’s family has a hand in the production. It’s their choice not to talk about the Bad Stuff - but the Bad Stuff is part of who the man was, it’s part of the story. It’s more than just ignoring the bad stuff, though: there’s a definite effort here to paint Senna as a Man Of The People, which is, in my opinion, laughable. He’s never been that - he was born wealthy, grew up like that, has always been that. F1 has also never been what’s been depicted in the series for us Brazilians. Yes, it was very popular at the time, in the sense that people would wake up early on Sundays to watch it, and Senna was one of the most famous people in the country, no question. But people were not decorating their streets and doing Senna Watch Parties. That’s World Cup stuff in Brazil. It happens once every four years. Interlagos’ stands didn’t look like the Maracanã; even back then, F1 tickets were extremely expensive and only the (very small at the time) middle class could afford it. Senna was, by all accounts, a charitable man, yes, a Brazilian idol, for sure; but not a man of the people. Never was.\nFunny enough, the best five minutes of the series are the last ones: when they show actual documental footage and actual pictures from all the moments the series covered, and you realize how far they went in trying to recreate things one-to-one (in particular, it made me remember the intro scene of episode 4, when Senna goes to Xuxa’s children’s show on TV, was 100% accurate in its absurdity). Many times during this, I caught myself thinking it would have been way cooler if they just inserted the original footage right then, during a particularly important moment. There’s this specific shot of lap 6 in Imola 1994 that immediately made me shudder because I know it deep inside me to be the exact TV shot right before they cut to the camera that will capture the crash. And they recreated the specific camera angle, everything, to the degree that my body reacted to the recreation instictively. Why dump all that money into one-to-one recreations? Why not use the archival footage instead? I think it would have grounded the whole thing, brought it back to earth, and made it feel less like an exercise in craft, and more like the real story it was."
   },
   {
     "objectID": "cv.html",
@@ -161,6 +133,41 @@
     "text": "Honors and Awards\n\n2013: Marie Sklodowska-Curie PhD Fellowship - Full tuition and stipend for 36 months and research-related expenses\n2011: Erasmus Mundus M.Sc. Scholarship - Full tuition and stipend for 24 months\n2010: Laurea Academica from Universidade Federal Fluminense - Awarded to best graduating student for each major\n2009: Premio Walder Moreira - ”Student of the year” award in Telecommunications Engineering\n2007: Premio Walder Moreira - ”Student of the year” award in Telecommunications Engineering"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi! I’m Erick.",
+    "section": "",
+    "text": "I currently manage a small (but powerful) team of imaging experts at The Jackson Laboratory, a biomedical research nonprofit. We work on institution-wide imaging support: think more “how do we get tool X to work in our environment” or “how do we teach people the best way to apply deep learning methods to their images”, less “we will develop a custom tool for your specific research project”. Our team is 100% focused on supporting open-source tools."
+  },
+  {
+    "objectID": "index.html#what-does-that-mean-in-practice",
+    "href": "index.html#what-does-that-mean-in-practice",
+    "title": "Hi! I’m Erick.",
+    "section": "What does that mean in practice?",
+    "text": "What does that mean in practice?\nA lot of my time is dedicated to OMERO, the imaging data management platform we use. Our team is responsible for keeping it running, drive adoption and make it easier for folks to use it. A (different) lot of my time is dedicated to training people on how to use open-source image analysis/data management tools. There is also a lot of talking to faculty and researchers about what they need, and how we can support them."
+  },
+  {
+    "objectID": "index.html#here-are-some-projects-i-have-been-working-on",
+    "href": "index.html#here-are-some-projects-i-have-been-working-on",
+    "title": "Hi! I’m Erick.",
+    "section": "Here are some projects I have been working on:",
+    "text": "Here are some projects I have been working on:\n\nezomero is a convenience-layer library to interact with OMERO servers using Python. I am currently the main developer and maintainer.\nomero-cli-transfer is a utility tool for transfering data between OMERO servers, preserving hierarchies, annotations and regions of interest. I am also the main developer and maintainer."
+  },
+  {
+    "objectID": "index.html#what-else-do-i-do",
+    "href": "index.html#what-else-do-i-do",
+    "title": "Hi! I’m Erick.",
+    "section": "What else do I do?",
+    "text": "What else do I do?\n\nI spend a lot of time on forum.image.sc answering people’s questions and learning from other people’s answers.\nI’m part of the Curriculum Advisory Committee for the Image Processing curriculum at The Carpentries and of the BINA Image Informatics Working Group.\nI co-organize the Northeast (US?) Bioimage Analysis Meeting at The Jackson Laboratory."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "The Senna series on Netflix is the most weightless way you could tell the Senna story.\n\n\n\n\n\n\npersonal\n\n\ntv\n\n\n\nCan you believe a Brazilian F1 fan in his late 30s has thoughts about this!?\n\n\n\n\n\nDec 25, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\n\n\n\n\n\n\nThese are some games I’ve played in 2024\n\n\n\n\n\n\npersonal\n\n\nvideo games\n\n\n\nIt’s the end of the year and I want to write about games again.\n\n\n\n\n\nDec 9, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\n\n\n\n\n\n\nBINA Community Congress and Northeast Bioimage Analysis Meeting round-up\n\n\n\n\n\n\nBINA\n\n\nNortheast\n\n\nBioimaging\n\n\nConference\n\n\nwork\n\n\n\nI went to more conferences this year and I want to talk about them\n\n\n\n\n\nNov 21, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\n\n\n\n\n\n\nMy August project: Boku no Natsuyasumi 2\n\n\n\n\n\n\npersonal\n\n\nvideo games\n\n\n\nI’ve played the same game every day in August.\n\n\n\n\n\nAug 31, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\n\n\n\n\n\n\nOME Community Meeting 2024 round-up\n\n\n\n\n\n\nOME\n\n\nOMERO\n\n\nConference\n\n\nwork\n\n\n\nIn which I talk about the things that happened at the OME Community Meeting 2024 in Dundee, Scotland\n\n\n\n\n\nJul 29, 2024\n\n\nErick Ratamero\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/2024-08-31-boku-no-natsuyasumi2/index.html",
     "href": "posts/2024-08-31-boku-no-natsuyasumi2/index.html",
     "title": "My August project: Boku no Natsuyasumi 2",
@@ -168,85 +175,85 @@
     "text": "Playing Boku no Natsuyasumi 2 every single day in August has been a delight.\n\n\n\nMeeting people is hard.\n\n\nIf you’ve never heard of Boku no Natsuyasumi (My Summer Vacation): it’s a very popular series of games in Japan, where the basic premise is that you are a young child going to spend your (titular) summer vacation somewhere. You can think of it as Animal Crossing-adjacent: you explore a cute location, interact with the people living there, catch some fish and some bugs, and so on. There’s a day-night cycle, certain things are only available at certain times, you know the drill.\n\n\n\nThe Akane house in Fumi became my second residence for August.\n\n\nNone of the Bokunatsu games saw a western release, ever. (the newer stuff from the same studio, Millenium Kitchen, is available, though.) It’s one of those series that people who are deep enough into the rabbit hole that is gaming talked about without full context, and western folks who can speak Japanese raved about. And then, a group of extremely dedicated fans carefully put together an English translation of Bokunatsu 2. I cannot say enough glowing things about the work they’ve done here, both in terms of the quality of the prose itself and the absolute technical marvel that this translation is. For example, the original game has vertical text; they somehow converted that into a horizontal textbox at the bottom of the screen.\n\n\n\nYou do get to open this gate if you want to.\n\n\nI’ll get this out of the way: Boku no Natsuyasumi 2 is wonderful. It’s a small miracle. It’s warm, gentle, thoughtful, and just a tiny little bit sappy at times. It made me feel nostalgic for rural Japan in the 70s, a time and space I had very little knowledge about.\nSo the game starts and it’s August 1st, 1975. You’re a 9-year old kid named Boku (I know), taking the ferry to Fumi, a tiny little community somewhere in Japan. Your mom is about to give birth to a child, and your parents sent you over to stay with your aunt and uncle in Fumi so you don’t need to be around for that. That’s it. This is all you’re given. There are no objectives, no tutorials, nothing you need to do. You’re a kid on vacation, staying in a small village with your extended family and the locals. Have fun. You’ll have breakfast and dinner with your family at set times, and you have a limit for your bed time. Those are the only limitations.\nI love how open-ended everything is. There were many things that I’ve certainly missed, some things I only discovered when it was too late to do them properly, and so on. It’s a game that clearly doesn’t expect you to see everything in a single playthrough, and getting rid of that minmaxing bug in your brain is a good thing here. In just a few in-game days, I was able to let go of the instinct to optimize and just enjoy being a weird kid running around this village.\n\n\n\nI genuinely have no idea if this scene always happens or if some of the stuff I did made it happen.\n\n\nBoku is a wonderful protagonist - the way this kid is written and voiced made me smile all the time. Boku is a kind-hearted, curious, very funny kid, who asks good questions and likes teasing people. But he’s very much a kid. He doesn’t understand some things even when you, the player, does; there’s nothing you can do in-game to change that. You are not Boku.\n\n\n\nGramps had some stuff to take off his chest.\n\n\nNow for some added fun: as I said, this is a game that starts on August 1st, 1975. Following a friend’s suggestion, I decided to play one in-game day per real-life day. It didn’t end up mapping one to one for a number of reasons, but I did my best. I know there’s no such thing as the right way to play a game but honestly? This might be the right way to play this game. If you’re in the northern hemisphere. And you live in a place with seasons. The reminders that summer is ending in-game synchronizing with the first slightly chillier days where I am worked really, really well. Everyone’s mood shifts as fall is starting to peek around the corner: the people in the game and myself. It also helps that each day takes about half an hour if you’re playing on the default speed. It’s a totally reasonable time commitment for a daily task, right there with my crosswords.\nThe one thing I’m divided on is whether to do this again next year. One one hand, I would love to go back to Fumi, see the things I didn’t see, do the things I didn’t do. But at the same time, I love where Boku’s story ended at. This month of August felt like my version of what Boku’ August would have been, and to some degree going back to it would just undermine its power by making me optimize more, focus less on enjoying the scenery and the people in the village. Ultimately, I worry that re-experiencing August 1975 would make this month less unique.\n\n\n\nBoku loves to sit at a place and just vibe."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html",
-    "href": "posts/2024-12-25-2024-games/index.html",
+    "objectID": "posts/2024-12-09-2024-games/index.html",
+    "href": "posts/2024-12-09-2024-games/index.html",
     "title": "These are some games I’ve played in 2024",
     "section": "",
     "text": "Cohost is dead, long live cohost. Last year I wrote a post there talking about every game I played in 2023. If you are reading this in 2025, that link does not work anymore. So here we are, and now I have my own blog that I write on infrequently - so I might as well use it for writing about every game I’ve played in 2024."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#final-fantasy-vii-rebirth",
-    "href": "posts/2024-12-25-2024-games/index.html#final-fantasy-vii-rebirth",
+    "objectID": "posts/2024-12-09-2024-games/index.html#final-fantasy-vii-rebirth",
+    "href": "posts/2024-12-09-2024-games/index.html#final-fantasy-vii-rebirth",
     "title": "These are some games I’ve played in 2024",
     "section": "Final Fantasy VII Rebirth",
     "text": "Final Fantasy VII Rebirth\nI think FFVII Remake, the game before this one, was the most pleasant surprise I’ve had with a game in a long, long time. It felt like an impossible project: remaking one of the most beloved games ever. They somehow pulled it off, making something that was simultaneously very close to the original and an interesting, original story, which opened up so many cool possibilities for whatever came next.\nWhat came next was this, pardon my french, wet fart. A bloated, confused mess of a game. A game where nothing happens for 100h, and then you get the most lukewarm, middle-of-the-road conclusion possible. They could have done literally anything with this game, and they chose to do nothing. The worst kind of checklist game. It’s very rare that I get genuinely angry at a video game, but this one managed to do it. Multiple times."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#animal-well",
-    "href": "posts/2024-12-25-2024-games/index.html#animal-well",
+    "objectID": "posts/2024-12-09-2024-games/index.html#animal-well",
+    "href": "posts/2024-12-09-2024-games/index.html#animal-well",
     "title": "These are some games I’ve played in 2024",
     "section": "Animal Well",
     "text": "Animal Well\nThere was a little chunk of the year there where a bunch of cool, interesting, puzzle-adjacent games came out in short succession. Animal Well was one of them. It’s a cute puzzle-platformer with incredible art, and then it’s more, way more. I did not go all the way into the rabbit hole (a lil joke here for the people who played Animal Well), and stopped when I felt satisfied, and that took me about 15h. Not an easy game, but very, very interesting and worth playing.\n\n\n\nyou play as a certified little guy (the meatball-looking dude there)"
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#balatro",
-    "href": "posts/2024-12-25-2024-games/index.html#balatro",
+    "objectID": "posts/2024-12-09-2024-games/index.html#balatro",
+    "href": "posts/2024-12-09-2024-games/index.html#balatro",
     "title": "These are some games I’ve played in 2024",
     "section": "Balatro",
     "text": "Balatro\nPlaying Balatro this year was mandatory. I did not play nearly as much as most people did, for sure; Probably less than 10h. It did not really have staying power for me, and the infinite-roguelike-keep-trying-until-you-get-a-good-run is very much not for me, and the way certain parts of the internet talk about it in terms of “addiction” rub me very much the wrong way (especially for a game with a lot of gambling-adjacent imagery). Still, it’s undeniably a very cool idea extremely well executed, for better or worse. Definitely a game I preferred to admire from a distance."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#lorelei-and-the-laser-eyes",
-    "href": "posts/2024-12-25-2024-games/index.html#lorelei-and-the-laser-eyes",
+    "objectID": "posts/2024-12-09-2024-games/index.html#lorelei-and-the-laser-eyes",
+    "href": "posts/2024-12-09-2024-games/index.html#lorelei-and-the-laser-eyes",
     "title": "These are some games I’ve played in 2024",
     "section": "Lorelei and the Laser Eyes",
     "text": "Lorelei and the Laser Eyes\nThis was completely out of left field for me. This studio pivoted from the very cool action-rhythm game Sayonara Wild Hearts to… a puzzle game? And a really good one? This game looks absolutely INCREDIBLE, has a genuinely interesting story that went places I did not expect (in a very, very positive way), and hit a difficulty level with its puzzles that was just right for me - a good mix of “you can solve this easily as soon as you find the relevant info” and “you might need some slightly lateral thinking to understand what’s being asked”. Maybe on the level of, say, a moderately difficult escape room; also, very much like an escape room, it is a game that gives you ALL the relevant info to solve its puzzles, even when there’s a reasonable argument to be made that most people know about it (though I guess I am being unkind to folks who do not know Roman Numerals).\n\n\n\ntfw the magician gives you a bunch of symbols"
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#duck-detective-the-secret-salami",
-    "href": "posts/2024-12-25-2024-games/index.html#duck-detective-the-secret-salami",
+    "objectID": "posts/2024-12-09-2024-games/index.html#duck-detective-the-secret-salami",
+    "href": "posts/2024-12-09-2024-games/index.html#duck-detective-the-secret-salami",
     "title": "These are some games I’ve played in 2024",
     "section": "Duck Detective: The Secret Salami",
     "text": "Duck Detective: The Secret Salami\nThis is a cute, largely inoffensive little thing. It’s very clearly inspired by The Case of the Golden Idol: you have little vignettes where you are presented with items and information, and then you need to fill in the blanks in some text (à la madlibs) explaining what has happened in that scene. It’s pretty easy, pretty short, pretty funny. A decent couple-hours of fun, but not the most inspiring thing I’ve ever played."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#the-rise-of-the-golden-idol",
-    "href": "posts/2024-12-25-2024-games/index.html#the-rise-of-the-golden-idol",
+    "objectID": "posts/2024-12-09-2024-games/index.html#the-rise-of-the-golden-idol",
+    "href": "posts/2024-12-09-2024-games/index.html#the-rise-of-the-golden-idol",
     "title": "These are some games I’ve played in 2024",
     "section": "The Rise of the Golden Idol",
     "text": "The Rise of the Golden Idol\nThis is the sequel to The Case of the Golden Idol, one of my favorite games of 2022. This is still a very similar formula to that game: you are presented with a scene (or a series of scenes) and you poke around at it until you figure out what has transpired, and then you fill in the blanks: the name of the people involved, some text describing the actions that took place, and sometimes more involved (and more creative) things that I do not want to give away.\nIt is, by any aspect, a better game than the original, in my opinion, and also a more difficult one. It was extremely satisfying to slowly piece together what happens in every little bit of it, though! Chapter 4, in particular, is a delight, with two incredible puzzles (one of them is different from anything they had ever done and made me clap my hands in joy when I realized what was asked of me). It dragged on a little too long for my taste (the last couple scenarios are a bit too much), but I had an incredible time with it.\n\n\n\nthis game looks “ugly” in a way that I love"
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#ufo-50",
-    "href": "posts/2024-12-25-2024-games/index.html#ufo-50",
+    "objectID": "posts/2024-12-09-2024-games/index.html#ufo-50",
+    "href": "posts/2024-12-09-2024-games/index.html#ufo-50",
     "title": "These are some games I’ve played in 2024",
     "section": "UFO 50",
     "text": "UFO 50\nThis has to be the best game of 2024, right? If I was to evaluate each of its 50 (!!!) constituent games on their own merits, a solid dozen would rank very highly in my game-of-the-year list. I went into it expecting to encounter small, largely arcade-y games, and maybe enjoy a handful of them (which I’d be more than happy with!). Instead, what I found were 50 actual games: yes, a few of them are fairly slight, many of them are pretty arcade-y. But after playing a little bit of every game, the list of games I wanted to go back to had… almost half of them.\nHave I gone back to all of them? No, I haven’t. Have I gone back to most of them? Also no. But the idea that there are 20 great games there, just waiting for me to come back one day, is incredible. This game feels like a miracle; have you tried making 50 of anything? It’s a lot! They made 50 games. And they sold the whole package for, like, $25. I’ve never felt so much like I was ripping off a developer. It’s a wonderful thing, and I cannot recommend it enough.\n\n\n\nPilot Quest is a ridiculous but wonderful idea for a game. You’ll need some meat."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#boku-no-natsuyasumi-2",
-    "href": "posts/2024-12-25-2024-games/index.html#boku-no-natsuyasumi-2",
+    "objectID": "posts/2024-12-09-2024-games/index.html#boku-no-natsuyasumi-2",
+    "href": "posts/2024-12-09-2024-games/index.html#boku-no-natsuyasumi-2",
     "title": "These are some games I’ve played in 2024",
     "section": "Boku no Natsuyasumi 2",
     "text": "Boku no Natsuyasumi 2\nI wrote about that already. Go read it! It’s a beautiful game."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#yakuza-3-4-5-6",
-    "href": "posts/2024-12-25-2024-games/index.html#yakuza-3-4-5-6",
+    "objectID": "posts/2024-12-09-2024-games/index.html#yakuza-3-4-5-6",
+    "href": "posts/2024-12-09-2024-games/index.html#yakuza-3-4-5-6",
     "title": "These are some games I’ve played in 2024",
     "section": "Yakuza 3, 4, 5, 6",
     "text": "Yakuza 3, 4, 5, 6\nYes. all of these. Is Yakuza formulaic? Yes, very much so. Is the combat kinda whatever? Absolutely. But there’s very few things in life I enjoy more than seeying Kazuma Kiryu and the goofballs he surrounds himself with doing some goofball stuff. These games wouldn’t work without the weird tonal shifts from super-serious-crime-drama main story and outright comedy in the side stories. They wouldn’t work if Kazuma Kiryu wasn’t the most kind-hearted head-empty dude in the world (which is why a lot of 4 and 5 don’t work super well for me). These games are a few slips away from being forgettable or actively disagreeable, and yet they manage to toe the line just right. I love them. (Yakuza 6 is the best of the bunch.)\n\n\n\nOno Michio forever."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#live-a-live",
-    "href": "posts/2024-12-25-2024-games/index.html#live-a-live",
+    "objectID": "posts/2024-12-09-2024-games/index.html#live-a-live",
+    "href": "posts/2024-12-09-2024-games/index.html#live-a-live",
     "title": "These are some games I’ve played in 2024",
     "section": "Live-a-Live",
     "text": "Live-a-Live\nThis shot up very high on my list of favorite JRPGs ever. Not everything hits (I find the meta/overarching narrative pretty meh, and some of the genre stuff it’s doing is pretty rote), but it’s so creative, so different from most other stuff in that space, so well-crafted. If you like JRPGs and you don’t know much about Live-a-Live, I would just go and play it sight unseen. It’s a good time."
   },
   {
-    "objectID": "posts/2024-12-25-2024-games/index.html#contradiction-spot-the-liar",
-    "href": "posts/2024-12-25-2024-games/index.html#contradiction-spot-the-liar",
+    "objectID": "posts/2024-12-09-2024-games/index.html#contradiction-spot-the-liar",
+    "href": "posts/2024-12-09-2024-games/index.html#contradiction-spot-the-liar",
     "title": "These are some games I’ve played in 2024",
     "section": "Contradiction: Spot the Liar",
     "text": "Contradiction: Spot the Liar\nOk, hear me out: murder mystery adventure game. FMV. Cheesy acting. Quaint English village that might be harboring a cult. Interested yet? What if I did… THIS\n\n(go to 1:00 in the video if timestamp doesn’t work)\nAnyway, Contradiction is not a good game, but it’s a lot of fun, and I enjoyed it enough to put together a speedrun just because I could."
