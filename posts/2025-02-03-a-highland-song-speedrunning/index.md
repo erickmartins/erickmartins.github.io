@@ -1,6 +1,6 @@
 ---
 title: "A Highland Song Any% is my speedrunning white whale."
-image: ahs.png
+image: ahs.webp
 lightbox: true
 description: "The joys and pains of speedrunning a nonlinear game with randomness."
 author:
