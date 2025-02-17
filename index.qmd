@@ -36,3 +36,4 @@ A lot of my time is dedicated to [OMERO](https://www.openmicroscopy.org/omero/),
 -   I spend a lot of time on [forum.image.sc]() answering people's questions and learning from other people's answers.
 - I'm part of the Curriculum Advisory Committee for the [Image Processing curriculum at The Carpentries](https://datacarpentry.org/image-processing/) and of the BINA [Image Informatics Working Group](https://www.bioimagingnorthamerica.org/image-informatics-wg/).
 - I co-organize the [Northeast (US?) Bioimage Analysis Meeting](https://www.jax.org/education-and-learning/education-calendar/2024/11-november/northeast-bioimage-analysis-meeting) at The Jackson Laboratory.
+- I'm one of the co-organizers of the [OME 2025 Community Meeting](https://www.bioimagingnorthamerica.org/events/ome-2025-community-meeting/) together with a whole lot of incredible people.
