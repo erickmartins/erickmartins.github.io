@@ -10,7 +10,9 @@ title: Curriculum Vitae
 
 ## Work experience
 
-- **2022-present**: Manager, Imaging Applications, The Jackson Laboratory
+- **2025-present**: Data Management Coordinator, European Molecular Biology Laboratory
+    - Data Science Centre
+- **2022-2025**: Manager, Imaging Applications, The Jackson Laboratory
     - Research IT department
 - **2019-2022**: Systems Analyst, The Jackson Laboratory
     - Research IT department
@@ -27,7 +29,10 @@ title: Curriculum Vitae
 
 ## Research experience
 
-- **2019-present**: _Systems Analyst_, then _Manager, Imaging Applications, The Jackson Laboratory_
+- **2025-present**: _Data Management Coordinator, EMBL_
+    - Ensuring the efficient handling, storage, and accessibility of scientific data.
+    
+- **2019-2025**: _Systems Analyst_, then _Manager, Imaging Applications, The Jackson Laboratory_
     - Leading a team of technical experts on institution-wide imaging data support
     - Developing novel Python libraries and command-line tools to interact with imaging data management platforms
     - Providing data analysis and data management advice and consultancy to ~60 research groups

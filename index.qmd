@@ -20,11 +20,13 @@ about:
 
 ---
 
-I currently manage a small (but powerful) team of imaging experts at [The Jackson Laboratory](https://jax.org), a biomedical research nonprofit. We work on institution-wide imaging support: think more "how do we get tool X to work in our environment" or "how do we teach people the best way to apply deep learning methods to their images", less "we will develop a custom tool for your specific research project". Our team is 100% focused on supporting open-source tools.
+I am currently the Data Management Coordinator in the [Data Science Centre](https://www.embl.org/about/info/data-science-centre/) at [EMBL](https://www.embl.org/), ensuring the efficient handling, storage, and accessibility of their scientific data.
+
+My previous life was managing a small (but powerful) team of imaging experts at [The Jackson Laboratory](https://github.com/TheJacksonLaboratory/), a biomedical research nonprofit. We worked on institution-wide imaging support: think more "how do we get tool X to work in our environment" or "how do we teach people the best way to apply deep learning methods to their images", less "we will develop a custom tool for your specific research project". Our team was 100% focused on supporting open-source tools.
 
 ## What does that mean in practice?
 
-A lot of my time is dedicated to [OMERO](https://www.openmicroscopy.org/omero/), the imaging data management platform we use. Our team is responsible for keeping it running, drive adoption and make it easier for folks to use it. A (different) lot of my time is dedicated to [training](https://github.com/erickmartins/training) people on how to use open-source image analysis/data management tools. There is also a lot of talking to faculty and researchers about what they need, and how we can support them.
+A lot of my time is dedicated to [OME](https://www.openmicroscopy.org/) efforts, a consortium/community of like-minded folks developing standards and tools for open-source microscopy data. A (different) lot of my time is dedicated to [training](https://github.com/erickmartins/training) people on how to use open-source image analysis/data management tools. The part of the job I enjoy the most is talking to faculty and researchers about what they need, and how to support them.
 
 ## Here are some projects I have been working on:
 
@@ -35,5 +37,5 @@ A lot of my time is dedicated to [OMERO](https://www.openmicroscopy.org/omero/),
 
 -   I spend a lot of time on [forum.image.sc]() answering people's questions and learning from other people's answers.
 - I'm part of the Curriculum Advisory Committee for the [Image Processing curriculum at The Carpentries](https://datacarpentry.org/image-processing/) and of the BINA [Image Informatics Working Group](https://www.bioimagingnorthamerica.org/image-informatics-wg/).
-- I co-organize the [Northeast (US?) Bioimage Analysis Meeting](https://www.jax.org/education-and-learning/education-calendar/2024/11-november/northeast-bioimage-analysis-meeting) at The Jackson Laboratory.
-- I'm one of the co-organizers of the [OME 2025 Community Meeting](https://www.bioimagingnorthamerica.org/events/ome-2025-community-meeting/) together with a whole lot of incredible people.
+- I co-organized the first two editions of the [Northeast Bioimage Analysis Meeting](https://www.jax.org/education-and-learning/education-calendar/2024/11-november/northeast-bioimage-analysis-meeting) at The Jackson Laboratory.
+- I was one of the co-organizers of the [OME 2025 Community Meeting](https://www.bioimagingnorthamerica.org/events/ome-2025-community-meeting/) together with a whole lot of incredible people.
